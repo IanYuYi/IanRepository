@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication_Ian
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //1234
-            string test = "123456789";
-        }
+        string test1 = "12";
     }
 }
